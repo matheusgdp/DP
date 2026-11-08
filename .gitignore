@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+canal.json
+*.mp3
+*.mp4
+*.wav
+.env

@@ -1,0 +1,12 @@
+{
+  "nome": "Nome do Canal",
+  "handle": "@SeuHandle",
+  "idioma": "fr-FR",
+  "referencia": "https://www.youtube.com/@AussieFilesTV",
+  "voz": "elevenlabs_<ID_DA_VOZ>",
+  "niveis": {
+    "voz_lufs": -16, "extrait_lufs": -17, "master_lufs": -14, "master_tp": -1, "max_efeitos_min": 10,
+    "longo": { "sob_voz_db": -20, "extrait_db": -6, "xfade": 2 },
+    "short": { "sob_voz_db": -16, "extrait_db": -4, "xfade": 1 }
+  }
+}
